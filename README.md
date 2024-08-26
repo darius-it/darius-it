@@ -1,16 +1,15 @@
-## Hi there 👋
+<img alt="Profile Banner" src="https://github.com/user-attachments/assets/809c519f-bb56-4679-91bd-593a435223bd" width="100%" />
+<br> <br>
 
-<!--
-**darius-it/darius-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Darius, a curious student and web developer with a love for crafting creative and user-friendly web experiences. I’m passionate about learning and experimenting with the latest web technologies, and I'm always on the lookout for new challenges to tackle.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on the excitement of turning ideas into reality through code. Whether it's building sleek interfaces, improving user experience, or exploring new frameworks, I enjoy every step of the process. Learning is a big part of my journey, and I’m constantly looking to grow and improve as a developer.
+
+## 🚀 Let's Collaborate
+
+I'm eager to collaborate on interesting projects, contribute to open-source, or simply connect with other tech enthusiasts. If you have an idea or just want to chat, don't hesitate to reach out!
+
+Thanks for visiting my profile! Let’s create something amazing together! 😊
+
