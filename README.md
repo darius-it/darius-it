@@ -1,7 +1,7 @@
 <img alt="Profile Banner" src="https://github.com/user-attachments/assets/809c519f-bb56-4679-91bd-593a435223bd" width="100%" />
 <br> <br>
 
-I'm Darius, a curious student and web developer with a love for crafting creative and user-friendly web experiences. I’m passionate about learning and experimenting with the latest web technologies, and I'm always on the lookout for new challenges to tackle.
+I'm Darius, a student and web developer with a love for crafting creative and user-friendly web experiences. I’m passionate about learning and experimenting with the latest web technologies, and I'm always on the lookout for new challenges to tackle.
 
 ## 🌟 About Me
 
