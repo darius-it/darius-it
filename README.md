@@ -1,5 +1,6 @@
-<img alt="Profile Banner" src="https://github.com/user-attachments/assets/57152106-de09-4317-a00c-81bb38ad5a69" width="100%" />
+<img alt="Profile Banner" src="https://github.com/user-attachments/assets/75531f47-a8da-4abf-bd6a-722af9d19e88" width="100%" />
 &nbsp;
+
 
 Hi there, I'm Darius, a student and developer from Germany. I am a tech nerd at heart and love learning about new technologies, from the latest web trends to experimenting with obscure hardware and operating systems.
 
