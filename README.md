@@ -7,9 +7,3 @@ Hi there, I'm Darius, a student and developer from Germany. I am a tech nerd at 
 ## 🌟 About Me
 
 I thrive on the excitement of turning ideas into reality through code. Whether it's building sleek interfaces, improving user experience, or exploring new frameworks, I enjoy every step of the process. Learning is a big part of my journey, and I’m constantly looking to grow and improve as a developer.
-
-## 🚀 Let's Collaborate
-
-I'm eager to collaborate on interesting projects, contribute to open-source, or simply connect with other tech enthusiasts. If you have an idea or just want to chat, don't hesitate to reach out!
-
-Email: hello@darius-it.me
