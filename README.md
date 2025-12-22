@@ -2,8 +2,10 @@
 &nbsp;
 
 
-Hi there, I'm Darius, a student and developer from Germany. I am a tech nerd at heart and love learning about new technologies, from the latest web trends to experimenting with obscure hardware and operating systems.
+Hi there, I'm Darius, a student and developer from Germany. I am a tech nerd and love learning about new technologies, from the latest web trends to experimenting with obscure hardware and operating systems.
 
 ## 🌟 About Me
-
-I thrive on the excitement of turning ideas into reality through code. Whether it's building sleek interfaces, improving user experience, or exploring new frameworks, I enjoy every step of the process. Learning is a big part of my journey, and I’m constantly looking to grow and improve as a developer.
+- Operating systems have always fascinated me, I love low-level software which sits at the intersection between hardware and software
+- Started having my first coding experiences with Scratch in 3rd grade, then quickly moved on to Python and later on branched out to a bunch of different langs
+- Currently using primarily TS/JS, Java/Kotlin and occasionally some C
+- When I'm not coding, I like to nerd out about trains/public transit and urban planning
