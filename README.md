@@ -8,4 +8,4 @@ Hi there, I'm Darius, a student and developer from Germany. I am a tech nerd and
 - Operating systems have always fascinated me, I love low-level software which sits at the intersection between hardware and software
 - Started having my first coding experiences with Scratch in 3rd grade, then quickly moved on to Python and later on branched out to a bunch of different langs
 - Currently using primarily TS/JS, Java/Kotlin and occasionally some C
-- When I'm not coding, I like to nerd out about trains/public transit and urban planning
+- When I'm not coding, I like to nerd out about public transit and urban planning
